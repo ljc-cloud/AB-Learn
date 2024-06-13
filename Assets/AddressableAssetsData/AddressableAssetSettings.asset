@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: 624ab3ac0e04d8f468ba29e4277f0301
   m_currentHash:
     serializedVersion: 2
-    Hash: ad4b3a8a9c5b66b13dc1a20ff7edea13
+    Hash: 14be355a4dd616dce2e56c2a278253d1
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -37,7 +37,7 @@ MonoBehaviour:
   m_RemoteCatalogBuildPath:
     m_Id: c361e1f5248c89c49a5cae349abdd02c
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: b719c4b237d7c394f8a6a715789e9ebb
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
@@ -68,7 +68,7 @@ MonoBehaviour:
       - m_Id: c361e1f5248c89c49a5cae349abdd02c
         m_Value: ServerData/[BuildTarget]
       - m_Id: b719c4b237d7c394f8a6a715789e9ebb
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: http://127.0.0.1:7999
     m_ProfileEntryNames:
     - m_Id: 546ddcb7ccb356a48bd092f88d1b32b7
       m_Name: BuildTarget
