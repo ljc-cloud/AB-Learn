@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/XLua.unity
+    guid: ac61a436f29b760459bde2c3ec710a14
+  - enabled: 1
     path: Assets/Scenes/Addressable.unity
     guid: 9f1bc80613f238840a160d4692ba6701
   - enabled: 1

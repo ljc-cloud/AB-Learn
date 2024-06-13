@@ -1,0 +1,12 @@
+print("Hello, Lua!")
+
+playerAttackStatus = CS.LuaGame.PlayerAttackStatus()
+local atk = playerAttackStatus:GetAtk()
+print(atk)
+
+function getDamage()
+    playerAttackStatus = CS.LuaGame.PlayerAttackStatus()
+    local matk = playerAttackStatus:GetMatk()
+    local damage = (matk + 10) * 1.5
+    return damage
+end
